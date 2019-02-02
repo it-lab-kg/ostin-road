@@ -113,14 +113,14 @@
     <ul class="shop_logo">
       <li class="shop_logo_item">
         <a
-          href="https://www.bestbuy.com"
+          href="https://www.6pm.com/"
           target="_blank"
           rel="noopener noreferrer"
           class="jsx-1554089227"
           ><img
-            src="/images/static/bestbuy.png"
+            src="/images/static/6pm-Logo-1x._V285053994_.png"
             srcset="
-              /images/static/bestbuy.png    1x,
+              /images/static/6pm-Logo-1x._V285053994_.png    1x,
               /images/static/bestbuy@2x.png 2x,
               /images/static/bestbuy@3x.png 3x
             "
@@ -208,9 +208,9 @@
           rel="noopener noreferrer"
           class="jsx-1554089227"
           ><img
-            src="/images/static/apple.png"
+            src="/images/320px-H&M-Logo.svg.png"
             srcset="
-              /images/static/apple.png    1x,
+              /images/static/320px-H&M-Logo.svg.png 1x,
               /images/static/apple@2x.png 2x,
               /images/static/apple@3x.png 3x
             "
@@ -276,15 +276,23 @@
       <div class="col-lg-6 sec-p">
         <div class="about-content">
           <div class="about-icon"><i class="fi flaticon-travel"></i></div>
-          <h2>Who We Are?</h2>
+          <h2>О компании:</h2>
           <p>
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout. The point
-            of using Lorem Ipsum is that it has a more-or-less
+           Ostin Road не просто доставляет посылки из США — 
+           мы обучаем всем тонкостям онлайн-шопинга, предоставляя 
+           возможность клиентам максимально выгодно совершать свои покупки.
           </p>
-          <span>Long established fact that a reader</span>
-          <span>We making it look like readable English.</span>
-          <span>Long established fact that a reader</span>
+          <span>
+            Ostin Road экономит время каждого клиента, 
+            предлагая лучшие опции шопинга и доставки из США всего в несколько кликов.
+          </span>
+          <span>
+            Компания оперирует двумя складами в штате Нью-Йорк и Дэлавер.
+          </span>
+          <span>
+            Наша компания является официальным представителем 
+            американской компании T-Express в Кыргызстане.
+          </span>
         </div>
         <div class="signature-section">
           <div class="si-text">
@@ -402,8 +410,12 @@
       <div class="col-sm-7 col-xs-12 text-xs-center">
         <h3>Умный склад</h3>
         <p>
-          В Бандерольке работает команда талантливых программистов, которые
-          создали уникальную систему управления складом.
+          Опираясь на многолетний опыт, смело заявляем — 
+          мы и сами заядлые шоперы. Сотрудники Ostin Road с 
+          радостью всем помогут разобраться во всех тонкостях 
+          шопинга, подскажут в какое время выгодно совершать 
+          покупки и как сократить свои расходы, используя промо-коды
+          и другие скидочные фишки американских онлайн-магазинов.
         </p>
         <p>
           Каждое действие сотрудников регистрируется и анализируется
@@ -416,12 +428,12 @@
     <div class="row segment-xxlarge">
       <div class="col-sm-7 col-xs-12">
         <div class="text-xs-center">
-          <h3>Быстрая доставка</h3>
+          <h3>Быстрая доставка, гарантия качества</h3>
           <p>
-            В 2012 году мы запустили собственный метод доставки Qwintry Air.
-            Благодаря выстроенной цепочке из авиаперевозчиков, таможенных
-            органов и служб доставки скорость отправки посылок стала еще выше (а
-            цены — нет). <a href="/ru/calculator">Убедитесь сами!</a>
+           Все посылки на складе в США проходят через сканирование, 
+           а актуальную информацию о местонахождении посылки можно
+            найти в своем личном кабинете. 
+            {# <a href="/ru/calculator">Убедитесь сами!</a> #}
           </p>
         </div>
         <div class="alert segment-small">
@@ -431,8 +443,9 @@
             style="display: block;"
           />
           <p>
-            Сейчас доставка Qwintry Air успешно работает в более чем 25 странах
-            и имеет 1500+ пунктов самовывоза.
+            В случае утери или порчи посылки по нашей вине,
+             клиенту возмещается ее полная стоимость. 
+             Условия возмещения ущерба оговариваются с каждым клиентом индивидуально.
           </p>
         </div>
       </div>
@@ -459,11 +472,13 @@
       </div>
       <div class="col-sm-7 col-xs-12">
         <div class="text-xs-center">
-          <h3>Надежная страховка</h3>
+          <h3>GIFT CARD США - ЭТО УДОБНО</h3>
           <p>
-            Страховка Global Green позволяет спокойно отправлять даже самые
-            дорогие предметы. А Global Green Plus возмещает не только стоимость
-            самих товаров, но и расходы на почтовые услуги.
+            Это карты с американским биллингом для покупки товаров и оплаты услуг в США. 
+            Вы покупаете гифт-карту, чтобы обойти систему 
+            безопасности интернет-магазинов в США, которые 
+            не принимают банковские карты с иностранным билл-адресом.
+             Поскольку карты не именные, то вы можете использовать их самостоятельно, либо подарить. 
           </p>
         </div>
 
@@ -474,8 +489,7 @@
             style="display: block;"
           />
           <p>
-            Решение о возмещении и его выплата происходит, как правило, в
-            течение 7-10-ти рабочих дней.
+             <a href="https://soroka-vorovka.com/help/gift-cards-usa">Список GIFT CARD </a>
           </p>
         </div>
       </div>
@@ -489,34 +503,57 @@
       <div class="col-lg-6 offset-lg-3">
         <div class="testimonial-active owl-carousel">
           <div class="testimonial-wrap">
-            <div class="testimonial-img">
+            {# <div class="testimonial-img">
               <img src="/images/testimonial/2.jpg" alt="" />
-            </div>
+            </div> #}
             <div class="testimonial-item">
               <div class="testimonial-content">
                 <p>
-                  There are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
+                  Менеджеры Ostin Road оформят и оплатят ваш заказ 
+                  с помощью американских корпоративных карт компании, 
+                  возьмут на себя все переговоры с продавцом и проконтролируют,
+                   чтобы ваша покупка успешно добралась до нашего склада.
                 </p>
-                <h4>Manela Watson</h4>
-                <span>Derector of ATV</span>
+                {# <h4>Manela Watson</h4>
+                <span>Derector of ATV</span> #}
+              </div>
+            </div>
+            <div class="test-c d-none d-lg-block"></div>
+            <div class="test-b d-none d-lg-block"></div>
+          </div>
+              <div class="testimonial-wrap">
+            {# <div class="testimonial-img">
+              <img src="/images/testimonial/2.jpg" alt="" />
+            </div> #}
+            <div class="testimonial-item">
+              <div class="testimonial-content">
+                <p>
+                 Мы дорожим своей репутацией, поэтому для нас
+                  каждая посылка имеет значение. Нам приятно 
+                  видеть радость на лицах наших клиентов, 
+                  когда они получают посылку в целости и сохранности, а самое главное в срок.
+                </p>
+                {# <h4>Manela Watson</h4>
+                <span>Derector of ATV</span> #}
               </div>
             </div>
             <div class="test-c d-none d-lg-block"></div>
             <div class="test-b d-none d-lg-block"></div>
           </div>
           <div class="testimonial-wrap">
-            <div class="testimonial-img">
+            {# <div class="testimonial-img">
               <img src="/images/testimonial/2.jpg" alt="" />
-            </div>
+            </div> #}
             <div class="testimonial-item">
               <div class="testimonial-content">
                 <p>
-                  There are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
+                  Мы также можем принять и отправить вашу личную посылку
+                   из США в Кыргызстан. Сдать свои посылки вы можете
+                    в городе Нью-Йорк представителю нашей компании,
+                    для этого свяжитесь с нашими менеджерами в городе Бишкек или Нью-Йорк.
                 </p>
-                <h4>Manela Watson</h4>
-                <span>Derector of ATV</span>
+                {# <h4>Manela Watson</h4>
+                <span>Derector of ATV</span> #}
               </div>
             </div>
             <div class="test-c d-none d-lg-block"></div>
