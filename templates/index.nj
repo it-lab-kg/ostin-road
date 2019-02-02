@@ -234,24 +234,24 @@
     </div>
     <div class="row text-center segment-xlarge">
       <div class="col-xs-12 col-sm-3">
-        <img alt="Регистрируйтесь" src="/images/static/28.png" />
+        <img alt="Регистрируйтесь" src="/images/static/sign-up-2314914_960_720.png" />
         <h3>Регистрируйтесь</h3>
         <p class="text-white">
           Чтобы получить адрес для совершения покупок за рубежом
         </p>
       </div>
       <div class="col-xs-12 col-sm-3 segment-xs-xlarge">
-        <img alt="Выбирайте" src="/assets/images/static/27.png" />
+        <img alt="Выбирайте" src="/images/static/sign-up-2314914_960_720.png" />
         <h3>Выбирайте</h3>
         <p class="text-white">Товары в любом интернет-магазине США и Европы</p>
       </div>
       <div class="col-xs-12 col-sm-3 segment-xs-xlarge">
-        <img alt="Отправляйте" src="/images/static/30.png" />
+        <img alt="Отправляйте" src="/images/static/sign-up-2314914_960_720.png" />
         <h3>Отправляйте</h3>
         <p class="text-white">Купленные товары себе и своим близким домой</p>
       </div>
       <div class="col-xs-12 col-sm-3 segment-xs-xlarge">
-        <img alt="Получайте" src="/images/static/31.png" />
+        <img alt="Получайте" src="/images/static/sign-up-2314914_960_720.png" />
         <h3>Получайте</h3>
         <p class="text-white">Посылки прямо у себя дома или в пунктах выдачи</p>
       </div>
@@ -403,7 +403,7 @@
       <div class="col-sm-5 col-xs-12 text-xs-center">
         <img
           class="pic lazy"
-          src="/images/static/factory.jpg"
+          src="/images/static/people-2581913_1280.jpg"
           style="display: inline;"
         />
       </div>
@@ -452,7 +452,7 @@
       <div class="col-sm-5 col-xs-12 visible-xs-block text-xs-center">
         <img
           class="pic lazy"
-          src="/images/static/truck.jpg"
+          src="/images/static/service-1186371_1280.png"
           style="display: inline;"
         />
       </div>
@@ -466,7 +466,7 @@
       <div class="col-sm-5 col-xs-12 text-xs-center">
         <img
           class="pic lazy"
-          src="/images/static/warranty.jpg"
+          src="/images/static/electronic-payments-2109610_1280.jpg"
           style="display: inline;"
         />
       </div>
